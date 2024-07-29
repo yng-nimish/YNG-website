@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/YNG-website/static/css/main.e80e83ae.css",
+    "main.js": "/github.io/YNG-website/static/js/main.56070d7a.js",
+    "static/media/image 4.svg": "/github.io/YNG-website/static/media/image 4.d5f94fd1413435ef80a9bfb572bf6eed.svg",
+    "static/media/logo2.svg": "/github.io/YNG-website/static/media/logo2.6f67be79144603fe525be0e04f19e292.svg",
+    "static/media/Hard Cover Book.svg": "/github.io/YNG-website/static/media/Hard Cover Book.0464ac807a3001eccb966557bd7461a0.svg",
+    "static/media/Grid33.svg": "/github.io/YNG-website/static/media/Grid33.85cf91e01a7e863e0d539c5e6d8a04eb.svg",
+    "static/media/snippet.svg": "/github.io/YNG-website/static/media/snippet.80ade824026ca3e55c64c244e4d861d6.svg",
+    "static/media/Group 62.svg": "/github.io/YNG-website/static/media/Group 62.099c1ea5dd8162da567b8497d5dd8810.svg",
+    "static/media/Frame 820-3.svg": "/github.io/YNG-website/static/media/Frame 820-3.135a4cf2b8132aa62c5d1204153c9f92.svg",
+    "static/media/Frame 819-2.svg": "/github.io/YNG-website/static/media/Frame 819-2.116397d54185f89fd6d6e4463dc28892.svg",
+    "static/media/Group 58.svg": "/github.io/YNG-website/static/media/Group 58.ca85733f2fb4cfee84d37cf1a9051f6c.svg",
+    "static/media/Great Britain.svg": "/github.io/YNG-website/static/media/Great Britain.0cf73051863c67c577b54e24efbb4f79.svg",
+    "static/media/Group 58-2.svg": "/github.io/YNG-website/static/media/Group 58-2.b3055819aacacbce8ca7801175c69148.svg",
+    "static/media/USA.svg": "/github.io/YNG-website/static/media/USA.36420e82ff304cb6e0a684fd31139e52.svg",
+    "static/media/Property 1=Variant2.svg": "/github.io/YNG-website/static/media/Property 1=Variant2.60d6a34f8c6b04e3439553221db2f213.svg",
+    "static/media/Canada.svg": "/github.io/YNG-website/static/media/Canada.9179ccc4e8f6447cfe6e12dab481b37b.svg",
+    "index.html": "/github.io/YNG-website/index.html",
+    "main.e80e83ae.css.map": "/github.io/YNG-website/static/css/main.e80e83ae.css.map",
+    "main.56070d7a.js.map": "/github.io/YNG-website/static/js/main.56070d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80e83ae.css",
+    "static/js/main.56070d7a.js"
+  ]
+}
