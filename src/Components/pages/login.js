@@ -17,7 +17,11 @@ const login = () => {
         <div className="rowC">
           <div className="coming-soon-container">
             <div className="balloon">
-              <img src={comingSoon} className="ballon-image" />
+              <img
+                src={comingSoon}
+                className="ballon-image"
+                alt="Coming Soon"
+              />
             </div>
           </div>
         </div>

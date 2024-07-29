@@ -1,8 +1,7 @@
 // App.js
 import React from "react";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
-import Home from "./Components/pages/home";
-import About from "./Components/pages/about";
+import { BrowserRouter as Route, Switch } from "react-router-dom";
+
 import { BrowserRouter } from "react-router-dom";
 import Navbar from "./Components/navbar";
 import home from "./Components/pages/home";
@@ -17,7 +16,6 @@ import Footer from "./Components/footer";
 import career from "./Components/pages/career";
 import guarantee from "./Components/pages/guarantee";
 import purchase from "./Components/pages/purchase";
-import Swal from "sweetalert2";
 
 const App = () => {
   return (

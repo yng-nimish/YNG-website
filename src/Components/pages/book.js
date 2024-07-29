@@ -10,17 +10,14 @@ import Flag3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Can
 import "file:///Users/nimishs/Documents/Nav/nav/src/App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
-import { CListGroup } from "@coreui/react";
-import { CListGroupItem } from "@coreui/react";
+
 import { CCardBody } from "@coreui/react";
 import { CCardTitle } from "@coreui/react";
-import { CCardSubtitle } from "@coreui/react";
 import { CCardText } from "@coreui/react";
-import { CCardLink } from "@coreui/react";
 import { CRow } from "@coreui/react";
 import { CCol } from "@coreui/react";
 import { CCardImage } from "@coreui/react";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const BookData = [
   {

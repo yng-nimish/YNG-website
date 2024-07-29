@@ -13,16 +13,7 @@ import { CButton } from "@coreui/react";
 import { CRow } from "@coreui/react";
 import { CCol } from "@coreui/react";
 import "bootstrap/dist/css/bootstrap.min.css";
-{
-  /*
-import { CDropdown } from "@coreui/react";
-import { CDropdownToggle } from "@coreui/react";
-import { CDropdownMenu } from "@coreui/react";
-import { CDropdownItem } from "@coreui/react";
-import { CDropdownDivider } from "@coreui/react";
-import { CButtonGroup } from "@coreui/react";
-*/
-}
+
 const applications = () => {
   return (
     <div className="technical-wrapper">
@@ -56,26 +47,9 @@ const applications = () => {
         </div>
       </div>
       <div className="app-card-section">
-        {/*
-        <CButtonGroup
-          role="group"
-          aria-label="Button group with nested dropdown"
-        >
-          <CDropdown variant="btn-group">
-            <CDropdownToggle color="primary">Dropdown</CDropdownToggle>
-            <CDropdownMenu>
-              <CDropdownItem href="#">Action</CDropdownItem>
-              <CDropdownItem href="#">Another action</CDropdownItem>
-              <CDropdownItem href="#">Something else here</CDropdownItem>
-              <CDropdownDivider />
-              <CDropdownItem href="#">Separated link</CDropdownItem>
-            </CDropdownMenu>
-          </CDropdown>
-        </CButtonGroup>
-        */}
         <div className="coming-soon-container">
           <div className="balloon">
-            <img src={comingSoon} className="ballon-image" />
+            <img src={comingSoon} className="ballon-image" alt="Coming Soon" />
           </div>
         </div>
         <CCard color="white" className="mb-3 justify-content-md-centre">

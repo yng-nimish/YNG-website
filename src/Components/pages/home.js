@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { FiArrowRight } from "react-icons/fi";
 import BannerImage from "file:///Users/nimishs/Documents/todo-front-end/src/logo2.svg";
 import Grid1 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Frame%20819-2.svg";

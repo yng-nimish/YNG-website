@@ -1,66 +1,6 @@
 import React from "react";
 
-import { useState } from "react";
-import { useForm } from "react-hook-form";
-import { CCard } from "@coreui/react";
-import { FiArrowRight } from "react-icons/fi";
-import Flag2 from "file:///Users/nimishs/Documents/todo-front-end/src/images/USA.svg";
-import Flag3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Canada.svg";
-import { CListGroup } from "@coreui/react";
-import { CListGroupItem } from "@coreui/react";
-import { CCardBody } from "@coreui/react";
-import { CCardTitle } from "@coreui/react";
-import { CForm } from "@coreui/react";
-import { CCardText } from "@coreui/react";
-import { CCardLink } from "@coreui/react";
-import { CRow } from "@coreui/react";
-import { CCol } from "@coreui/react";
-import { CCardImage } from "@coreui/react";
-import { CFormInput } from "@coreui/react";
 import Swal from "sweetalert2";
-const EmailData = [
-  {
-    text: "CEO: ceoyng@icloud.com",
-  },
-  {
-    text: "Editor: editor@yournumberguaranteed.com",
-  },
-];
-const BookData = [
-  {
-    image: Flag2,
-    title: "United States",
-    text: (
-      <div>
-        <p>
-          Your Number Guaranteed Inc. <br />
-          3909 Witmer Rd. Suite #436 <br />
-          Niagara Falls, NY <br />
-          USA <br />
-          14305
-        </p>
-      </div>
-    ),
-  },
-  ,
-  {
-    image: Flag3,
-    title: "Canada",
-    text: (
-      <div>
-        <p>
-          Your Number Guaranteed Inc.
-          <br />
-          PO Box 92567, Brampton Mall
-          <br />
-          Brampton, On <br />
-          Canada <br />
-          L6W 4R1
-        </p>
-      </div>
-    ),
-  },
-];
 
 const career = () => {
   const onSubmit = async (event) => {

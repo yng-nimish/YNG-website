@@ -5,7 +5,7 @@ import AurhorImage from "file:///Users/nimishs/Documents/todo-front-end/src/imag
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { CCardBody } from "@coreui/react";
 import { CCardTitle } from "@coreui/react";
 import { CCardText } from "@coreui/react";

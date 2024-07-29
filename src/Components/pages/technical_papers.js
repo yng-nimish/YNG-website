@@ -1,10 +1,9 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import { FiArrowRight } from "react-icons/fi";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
-import PDFViewer from "./PDFViewer";
 import { data } from "./data";
 
 const Technical_papers = () => {
@@ -48,12 +47,6 @@ const Technical_papers = () => {
           <div className="table">
             <table>
               {" "}
-              {/* The Table is not spanning correctly when going into mobile mode  
-              
-                    <button onClick={() => handleItemClick(item.pdfUrl)}>
-                      {item.title}
-                    </button>
-              */}
               <tr>
                 <th>Title - Click to Read for FREE</th>
                 <th>Author</th>

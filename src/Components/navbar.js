@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import "./navbar.css";
 import { BsCart2 } from "react-icons/bs";
-import { cilHamburgerMenu } from "@coreui/icons";
+
 const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
   const menuOptions = [

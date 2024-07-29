@@ -9,7 +9,6 @@ import { CCardBody } from "@coreui/react";
 import { CCardTitle } from "@coreui/react";
 import { CCardSubtitle } from "@coreui/react";
 import { CCardText } from "@coreui/react";
-import { CCardLink } from "@coreui/react";
 import { CRow } from "@coreui/react";
 import { CCol } from "@coreui/react";
 import { Link, NavLink } from "react-router-dom";
